@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alveena Aziz</h1>
-<h3 align="center">🚀 An Artificial Intelligence Enthusiast | Front-End Learner | Python Developer</h3>
+<h3 align="center">🚀 An Artificial Intelligence Enthusiast | Front-End Learner | Python Developer | Networking Explorer</h3>
 
 <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
@@ -8,7 +8,7 @@
 ## 🧑‍💻 About Me
 - 🎓 I am a **BS Artificial Intelligence Student (4th Semester)** at **University of Management and Technology, Lahore.**
 - 💻 I enjoy exploring new technologies and working on real-world projects.
-- 🌱 Currently learning **Machine Learning** and improving my skills in **Front-End Development (React, JavaScript)**.
+- 🌱 Currently learning **Machine Learning**, improving my skills in **Front-End Development (React, JavaScript)**, and exploring **Networking Concepts**.
 - 👯 I’m open to collaborating on **Open-Source Projects** and eager to gain industry experience.
 - ⚡ Fun Fact: I believe **“Learning has no limits.”**
 
@@ -37,6 +37,12 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
 
+### 🌐 **Networking:**
+![Cisco Packet Tracer](https://img.shields.io/badge/Cisco%20Packet%20Tracer-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+- ✅ Networking Fundamentals
+- ✅ Network Design & Simulation
+- ✅ Routing, Switching, DHCP, DNS, and Subnetting
+
 ### 🛠️ **Tools & IDEs:**
 ![VSCode](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -57,6 +63,7 @@
 | 📊 **Data Visualization Project** | Analyzed datasets and visualized them using Matplotlib. | Python, Pandas, Matplotlib |
 | 🔢 **NumPy & Pandas Data Analysis** | Data manipulation, filtering, and analysis using Python libraries. | Python, NumPy, Pandas |
 | 🌐 **Portfolio Website** | Created a personal responsive website using HTML, CSS, and JavaScript. | HTML, CSS, JavaScript |
+| 🌐 **Networking Project - Cisco Packet Tracer** | Configured networks including routers, switches, DHCP, DNS, and subnetting for different departments (HR, IT, Finance). | Cisco Packet Tracer |
 
 ---
 
@@ -65,6 +72,7 @@
 - ⚛️ Front-End Frameworks (**React.js**)
 - 🌐 Backend Basics (**Node.js**)
 - 🗃️ Advanced SQL and Data Management
+- 🌐 **Networking Protocols, Routing, and Switching**
 
 ---
 
